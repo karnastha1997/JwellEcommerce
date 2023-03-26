@@ -10,7 +10,7 @@ function App() {
       <div>
         THis is my website
       </div>
-      <p>asthakarn</p>
+      <p>asthakarn ecommerce</p>
     </div>
   );
 }
