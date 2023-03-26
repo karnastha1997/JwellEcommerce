@@ -5,10 +5,10 @@ function App() {
   return (
     <div className="text-2xl bg-[#31de93] w-1/2 h-[20rem] shadow-2xl flex gap-5">
       <div>
-        jwelll
+        Hello World
       </div>
       <div>
-        earing
+        THis is my website
       </div>
     </div>
   );
